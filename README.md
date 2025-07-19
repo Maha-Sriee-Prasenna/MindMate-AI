@@ -69,8 +69,7 @@ Calmspace operates on a modular architecture comprising:
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/Naganathan194/Calmspace.git
-cd Calmspace
+https://github.com/Maha-Sriee-Prasenna/MindMate-AI.git
 ```
 
 #### Install Dependencies
@@ -154,5 +153,5 @@ We welcome contributions! To get started:
 
 ## 📬 Contact
 
-- 📧 Email: [naganathan@gmail.com](mailto:naganathan@gmail.com)  
-- 🐙 GitHub: [Naganathan194](https://github.com/Naganathan194)  
+- 📧 Email: [mahasrieeprasenna@gmail.com](mailto:mahasrieeprasenna@gmail.com)  
+- 🐙 GitHub: [Maha-Sriee-Prasenna](https://github.com/maha-sriee-prasenna)  
